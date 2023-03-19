@@ -1,3 +1,8 @@
+!Title: AdGuard Home Facebook Video Ad Blocker
+!Description: Facebook Video Ad Blocker
+!Source: https://github.com/NyteBlade168/FacebookAds/edit/main/videoads.txt
+
+
 ||sponsor.ajay.app^$important
 ||static.ads.brave.com^$important
 ||vibe.sleepyinternetfun.xyz^$important
